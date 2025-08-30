@@ -6,17 +6,17 @@ This repository contains the work from my research internship at the IEOR Depart
 
 The main focus was on Accelerated Alternating Minimization (AAM), an algorithm that integrates Alternating Minimization with Nesterov’s Momentum. I analyzed its theoretical convergence properties, studied the impact of momentum on alternating minimization, and conducted empirical evaluations against standard optimizers. The work examined AAM in both convex and non-convex settings, demonstrating its potential for faster and more stable convergence.
 
-Work Summary
+Work Summary:
 
 • Explored optimization algorithms for regression and classification problems.
 
-•Implemented a wide range of optimizers and compared their convergence behavior.
+• Implemented a wide range of optimizers and compared their convergence behavior.
 
 • Studied the effects of learning rate, gradient noise, and problem type (convex vs non-convex) on training.
 
 • Applied the methods to the Iris dataset and synthetic regression tasks.
 
-Implemented Algorithms
+Implemented Algorithms:
 
 • Gradient Descent (GD)
 
