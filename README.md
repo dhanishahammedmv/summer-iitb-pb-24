@@ -6,26 +6,26 @@ This repository contains the work from my research internship at the IEOR Depart
 
 Work Summary
 
-Explored optimization algorithms for regression and classification problems.
+• Explored optimization algorithms for regression and classification problems.
 
-Implemented a wide range of optimizers and compared their convergence behavior.
+• Implemented a wide range of optimizers and compared their convergence behavior.
 
-Studied how factors like learning rate, gradient noise, and problem type (convex vs non-convex) affect training.
+• Studied how factors like learning rate, gradient noise, and problem type (convex vs non-convex) affect training.
 
-Applied the methods to the Iris dataset and synthetic regression tasks.
+• Applied the methods to the Iris dataset and synthetic regression tasks.
 
 Implemented Algorithms
 
-Gradient Descent (GD)
+• Gradient Descent (GD)
 
-Momentum-based Gradient Descent
+• Momentum-based Gradient Descent
 
-Nesterov Accelerated Gradient (NAG)
+• Nesterov Accelerated Gradient (NAG)
 
-Stochastic Gradient Descent (SGD)
+• Stochastic Gradient Descent (SGD)
 
-Adagrad
+• Adagrad
 
-RMSProp
+• RMSProp
 
-Adam
+• Adam
